@@ -90,6 +90,9 @@ describe('Work with basic elements', () => {
         //TODO validar opções selecionadas do combo multiplo
     })
 
+    it('Select', () => {
+        cy.get
+    })
     
     
 })

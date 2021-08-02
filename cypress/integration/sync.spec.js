@@ -74,7 +74,7 @@ describe('Esperas...', () => {
         
     })
 
-    it.only('click retry', () =>{
+    it('click retry', () =>{
         cy.get('#buttonCount')
             .click()
             .click()
